@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Oving_4</string>
+    <string name="next">Neste</string>
+    <string name="previous">Forrige</string>
+    <string-array name="NTNU">
+        <item>Øya</item>
+        <item>Gløshaugen</item>
+        <item>Handelshøyskolen</item>
+        <item>Dragvoll</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
